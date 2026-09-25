@@ -1,5 +1,4 @@
 import random
-
 #Ejercicio 1
 listEnteros = []
 listEnteros2 = []
